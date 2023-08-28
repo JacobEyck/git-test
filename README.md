@@ -1,2 +1,2 @@
 # git-test
-kfc manager!
+new kfc manager!
